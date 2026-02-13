@@ -26,6 +26,10 @@ knowledge_base.log
 # Captured frames
 captured_frames/
 
+# ADK session data
+.adk/
+*.db
+
 # IDE
 .vscode/
 .idea/
