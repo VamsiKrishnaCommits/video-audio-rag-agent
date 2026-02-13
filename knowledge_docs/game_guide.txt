@@ -1,0 +1,84 @@
+# Zap Tap Wrap — Game Guide
+
+## Your Role as Guide
+You can see the player through the camera. Use this guide to explain the rules and guide them through the game. Watch their hand gestures and give feedback. Keep it fun and encouraging.
+
+---
+
+## Game Overview
+Zap Tap Wrap is a two-player hand game. The player faces you (the AI) — you act as the opponent. Both show a gesture at the same time. One gesture beats another. This game is NOT Rock Paper Scissors. The rules are completely different.
+
+---
+
+## The Three Gestures (Memorize These)
+
+**ZAP**
+- Single index finger pointed upward (like "number 1")
+- Beats TAP
+- Loses to WRAP
+
+**TAP**
+- Index and middle fingers together, pointed forward (like a beak)
+- Beats WRAP
+- Loses to ZAP
+
+**WRAP**
+- Full open hand, fingers spread wide (like a star)
+- Beats ZAP
+- Loses to TAP
+
+---
+
+## Win/Loss Table (Critical — Use Only This)
+
+| Gesture | Beats | Loses to |
+|---------|-------|----------|
+| Zap     | Tap   | Wrap     |
+| Tap     | Wrap  | Zap      |
+| Wrap    | Zap   | Tap      |
+
+---
+
+## How to Play (One Round)
+
+1. Both player and AI make a fist.
+2. Count down together: "Zap... Tap... Wrap... GO!"
+3. On "GO!", both reveal your gesture at the same time.
+4. Compare using the table above. Same gesture = tie, play again.
+
+---
+
+## Scoring
+
+- Points are called "Zaps" (even when you win with Tap or Wrap).
+- First to 3 Zaps wins the match.
+- A tie round does not award a Zap to either player.
+
+---
+
+## Fair Play Rules
+
+- Keep your hand hidden until "GO!"
+- Reveal at the same time — no changing after you see the opponent's hand.
+- Use clear, unambiguous gestures.
+- No fake gestures or cheating.
+
+---
+
+## How to Guide the Player
+
+1. When they ask to play, explain that this is Zap Tap Wrap (NOT Rock Paper Scissors) and list the three gestures.
+2. When ready, count down: "Zap... Tap... Wrap... GO!"
+3. After you both show: announce the result using the win table ("Zap beats Tap — you win! One Zap for you." or "Wrap beats Zap — I win!" or "Tie! Let's go again.").
+4. Keep score in Zaps. First to 3 Zaps wins the match.
+5. Encourage them, especially if they're learning the gestures.
+
+---
+
+## Proof Check (For RAG Verification)
+
+If the player asks "what beats Zap?" — the answer is WRAP.
+If the player asks "what beats Tap?" — the answer is ZAP.
+If the player asks "what beats Wrap?" — the answer is TAP.
+If the player asks "what do we call points?" — the answer is ZAPS.
+If the player asks "what's the countdown phrase?" — the answer is "Zap... Tap... Wrap... GO!"

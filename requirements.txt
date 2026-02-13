@@ -1,0 +1,12 @@
+# Core dependencies for video + audio RAG agent
+google-genai>=0.2.0
+python-dotenv>=1.0.0
+certifi>=2024.0.0
+
+# Video processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+mss>=9.0.0
+
+# Audio processing
+pyaudio>=0.2.14
